@@ -1,0 +1,4 @@
+/vendor/
+*.lock
+/Config/
+/App/Storage/cookies_fb
