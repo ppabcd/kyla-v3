@@ -6,7 +6,7 @@ use System\Core\Controller;
 /**
  * API Class
  */
-class Api extends Controller
+class  Default extends Controller
 {
     public function index(){
         // Execute Your Code
